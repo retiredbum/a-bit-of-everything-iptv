@@ -39,7 +39,7 @@ https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/rewind-14400.m
 https://cdn1-9p.teleuptv.net/03067123-de29-4f43-9d65-0a65a8aa43f4/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports 1 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF: -1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony Sports 4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony Sports 4 
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports 5 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
