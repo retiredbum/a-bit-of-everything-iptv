@@ -33,6 +33,10 @@ https://cdn1-9p.teleuptv.net/26b133af-4436-48b3-802a-aff73cefc41e/rewind-14400.m
 https://cdn1-9p.teleuptv.net/c5c246cd-2ae5-4916-9b3c-1440bd79a8df/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FX.png",FX
 https://cdn1-9p.teleuptv.net/9358b6f4-3177-4fd5-8bd7-72d50025ad83/rewind-14400.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/hbo.eastern.us.png",HBO
+http://190.171.101.36/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.tv4.live/hbo.signature.hbo.3.eastern.us.png",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name=""Syfy East tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Syfy.png",SYFY
 https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/rewind-14400.m3u8 
 #EXTINF:-1 tvg-id="FreeformEast.us" tvg-name="Freeform East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Freeform.png",FREEFORM
