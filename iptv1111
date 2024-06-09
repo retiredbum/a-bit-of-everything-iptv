@@ -38,6 +38,8 @@ https://i.mjh.nz/discovery-fast2.m3u8
 https://i.mjh.nz/discovery-fast6.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN USA
 http://170.254.18.108/CNN/mono.m3u8
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png",LIFETIME MOVIES
+http://170.254.18.106/LMN/index.m3u8
 #EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC 
 http://170.254.18.108/MSNBC/mono.m3u8
 #EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-logo="https://media.tv4.live/newsmax.tv.us.png",NewsMax 
