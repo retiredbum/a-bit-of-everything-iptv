@@ -58,8 +58,6 @@ http://212.102.60.231/STARZ_ENCORE/index.m3u8
 https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/rewind-14400.m3u8 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Freeform.png",FREEFORM
 https://cdn1-9p.teleuptv.net/03067123-de29-4f43-9d65-0a65a8aa43f4/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="WPIX.(WPIX).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png",WPIX
-http://170.254.18.106/WPIX/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN.png",ESPN USA
 https://cdn1-9p.teleuptv.net/51845f95-aa92-4dbc-9357-d9efd5243396/tracks-v4a1/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN2.png",ESPN 2 USA
