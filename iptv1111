@@ -67,4 +67,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-1" tvg-id="mjh-trackside-1" tvg-logo="https://i.mjh.nz/.images/trackside-1.png",TAB TRACKSIDE 1
 https://i.mjh.nz/trackside-1.m3u8
 #EXTINF:-1 channel-id="mjh-trackside-2" tvg-id="mjh-trackside-2" tvg-logo="https://i.mjh.nz/.images/trackside-2.png",TAB TRACKSIDE 2
-https://i.mjh.nz/trackside-2.m3u8 
+https://i.mjh.nz/trackside-2.m3u8
+#EXTINF:-1 tvg-id="FanDuel.TV.(FANDUEL).us" tvg-logo="https://media.tv4.live/tvg.2.horse.racing.us.png",TVG HORSE RACING
+http://212.102.60.231/TVG/index.m3u8
