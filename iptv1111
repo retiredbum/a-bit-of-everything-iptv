@@ -37,13 +37,11 @@ https://i.mjh.nz/discovery-fast2.m3u8
 #EXTINF:-1 channel-id="mjh-discovery-fast6" tvg-id="mjh-discovery-fast6" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521489922/20231121T120747_househunterslogo.png" group-title="Nz" , Warner Bros TV House Hunters
 https://i.mjh.nz/discovery-fast6.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN USA
-http://170.254.18.108/CNN/mono.m3u8
+http://212.102.60.231/CNN/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png",LIFETIME MOVIES
-http://170.254.18.106/LMN/index.m3u8
+http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC 
-http://170.254.18.108/MSNBC/mono.m3u8
-#EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-logo="https://media.tv4.live/newsmax.tv.us.png",NewsMax 
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+http://212.102.60.231/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="Fox News Channel" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FoxNews.png",FOX NEWS
 https://cdn1-9p.teleuptv.net/4d90954f-147f-47d9-8016-8d5fdcb159ec/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-name="Discovery Channel East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Discovery.png",DISCOVERY CHANNEL USA
