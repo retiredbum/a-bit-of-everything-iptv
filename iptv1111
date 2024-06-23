@@ -38,7 +38,7 @@ https://i.mjh.nz/discovery-fast2.m3u8
 https://i.mjh.nz/discovery-fast6.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN USA
 http://212.102.60.231/CNN/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png",LIFETIME MOVIES
+#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://media.tv4.live/lifetime.network.us.eastern.us.png",LIFETIME NETWORK
 http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC 
 http://212.102.60.231/MSNBC/index.m3u8
@@ -52,8 +52,6 @@ https://cdn1-9p.teleuptv.net/26b133af-4436-48b3-802a-aff73cefc41e/rewind-14400.m
 https://cdn1-9p.teleuptv.net/c5c246cd-2ae5-4916-9b3c-1440bd79a8df/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FX.png",FX
 https://cdn1-9p.teleuptv.net/9358b6f4-3177-4fd5-8bd7-72d50025ad83/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="https://media.tv4.live/paramount.network.usa.eastern.us.png",PARAMOUNT NETWORK
-http://170.254.18.109/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name=""Syfy East tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Syfy.png",SYFY
 https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/rewind-14400.m3u8 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Freeform.png",FREEFORM
