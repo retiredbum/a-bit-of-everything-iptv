@@ -32,6 +32,8 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 http://212.102.60.231/CNN/index.m3u8
 #EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-logo="https://media.tv4.live/msnbc.usa.us.png",MSNBC 
 http://212.102.60.231/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.HDTV.(NEWSNTN).us" tvg-logo="https://media.tv4.live/newsnation.eastern.us.png",NEWS NATION
+http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="Fox News Channel" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FoxNews.png",FOX NEWS
 https://cdn1-9p.teleuptv.net/4d90954f-147f-47d9-8016-8d5fdcb159ec/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-name="Discovery Channel East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Discovery.png",DISCOVERY CHANNEL USA
