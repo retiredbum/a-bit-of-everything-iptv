@@ -30,7 +30,7 @@ http://212.102.60.231/HBO_COMEDY/index.m3u8
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us",PARAMOUNT
+#EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-logo="",PARAMOUNT
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.HDTV.(NEWSNTN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/NewsNation_logo.svg",NEWS NATION
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
