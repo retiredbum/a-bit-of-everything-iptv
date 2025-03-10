@@ -34,16 +34,15 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.HDTV.(NEWSNTN).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/NewsNation_logo.svg",NEWS NATION
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="Fox News Channel" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FoxNews.png",FOX NEWS
-https://cdn1-9p.teleuptv.net/4d90954f-147f-47d9-8016-8d5fdcb159ec/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-name="Discovery Channel East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Discovery.png",DISCOVERY CHANNEL USA
-https://cdn1-9p.teleuptv.net/5dd8accc-dc30-40a8-91ef-ab0cc7d4b741/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CW East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/CW.png",THE CW NETWORK
-https://cdn1-9p.teleuptv.net/26b133af-4436-48b3-802a-aff73cefc41e/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/USANetwork.png",USA NETWORK
-https://cdn1-9p.teleuptv.net/c5c246cd-2ae5-4916-9b3c-1440bd79a8df/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/FX.png",FX
-https://cdn1-9p.teleuptv.net/9358b6f4-3177-4fd5-8bd7-72d50025ad83/rewind-14400.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.HD.(East).(STZEH).us" tvg-logo="https://media.tv4.live/starz.encore.eastern.us.png",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
+
+
+
+
+ 
+
 #EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://media.tv4.live/showtime.eastern.us.png",SHOWTIME
 http://212.102.60.231/SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://media.tv4.live/showtime.2.eastern.us.png",SHOWTIME 2
@@ -56,14 +55,13 @@ http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
 http://212.102.60.231/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://media.tv4.live/starz.encore.eastern.us.png",STARZ ENCORE
 http://212.102.60.231/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name=""Syfy East tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Syfy.png",SYFY
-https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/rewind-14400.m3u8 
-#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform East" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/Freeform.png",FREEFORM
-https://cdn1-9p.teleuptv.net/03067123-de29-4f43-9d65-0a65a8aa43f4/rewind-14400.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN.png",ESPN USA
-https://cdn1-9p.teleuptv.net/51845f95-aa92-4dbc-9357-d9efd5243396/tracks-v4a1/rewind-14400.m3u8
-#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ESPN2.png",ESPN 2 USA
-https://cdn1-9p.teleuptv.net/91c031e0-ac52-40d0-b305-b3398ef4c338/tracks-v4a1/rewind-14400.m3u8
+http://41.205.93.154/ESPN/index.m3u8
+
+
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://media.tv4.live/wwe.network.ca.png",WWE NETWORK
 http://212.102.60.231/WWE/index.m3u8
 #EXTINF:-1 tvg-id="mjh-7-rac" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/800px-RACING.COM_logo_2016.svg.png",RACING.COM
